@@ -1,9 +1,9 @@
 export default {
-  title: 'Appxyz',
+  title: 'DeepChat',
   themeConfig: {
     footer: {
       copyright:
-        'Copyright © 2023 Appxyz. All rights reserved.'
+        'Copyright © 2023 DeepChat. All rights reserved.'
     }
   }
 }
