@@ -1,5 +1,5 @@
 export default {
-  title: 'DeepChat',
+  title: ' ',
   description: 'Powerful AI Chatbot app',
   themeConfig: {
     footer: {
