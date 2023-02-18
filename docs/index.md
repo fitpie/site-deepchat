@@ -24,5 +24,5 @@ features:
   - title: Commune with historical figures
     details: Engage in conversation with the most charismatic and intelligent historical figures.
   - title: Professionals
-    details: Senior-level professional translators at your service.
+    details: Senior-level professionals at your service.
 ---
